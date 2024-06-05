@@ -2,7 +2,7 @@ DATA_SOURCES={
     "source1":"lastDP(ADIFM_B2, TOTAL)",
     "source2":"getDP(ADIFM_B2, TOTAL, 2023-02-02 00:55:00)",
     "source3":"consumption(ADIFM_B2, TOTAL,06:00,1)",
-    "source4":"wconsumption(ADIFM_B2, TOTAL,06:00,0,Mocccccacsac)",
+    "source4":"wconsumption(ADIFM_B2, TOTAL,06:00,0,Mocccccacsacsdsd)",
     # "source5":"mconsumption(ADIFM_B2,1",
     # "source6":"qconsumption(ADIFM_B2, TOTAL,06:00,1)",
     # "source7":"hyconsumption(ADIFM_B2, TOTAL,06:00,0)",
