@@ -93,7 +93,7 @@ class MQTTClient:
         time.sleep(10)  # Wait for 10 seconds
         failed_sources = [source for source, result in self.sent_data_source_ids.items() if result != 'Passed']
         if failed_sources:
-            return f"Failed sources after 10 seconds: {failed_sources}"
+            raise Exception(f"Failed sources after 10 seconds: {failed_sources}")
         else:
             return "All sources are passed within 10 seconds."
        
