@@ -1,5 +1,5 @@
 DATA_SOURCES={
-    "source1":"lastDP(ADIFM_B2, TOTAL",
+    "source1":"lastDP(ADIFM_B2, TOTALssas",
     "source2":"getDP(ADIFM_B2, TOTAL, 2023-02-02 00:55:00)",
     "source3":"consumption(ADIFM_B2, TOTAL,06:00,1)",
     "source4":"wconsumption(ADIFM_B2, TOTAL,06:00,0,Mos)",
