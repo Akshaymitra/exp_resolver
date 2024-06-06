@@ -4,7 +4,7 @@ DATA_SOURCES={
     "source3":"consumption(ADIFM_B2, TOTAL,06:00,1)",
     "source4":"wconsumption(ADIFM_B2, TOTAL,06:00,0,Mo)",
     "source5":"mconsumption(ADIFM_B2,1)",
-    # "source6":"qconsumption(ADIFM_B2, TOTAL,06:00,1)",
+    "source6":"qconsumption(ADIFM_B2, TOTAL,06:00,1)",
     # "source7":"hyconsumption(ADIFM_B2, TOTAL,06:00,0)",
     # "source8":"yconsumption(ADIFM_B2, TOTAL,06:00,0)",
     # "source9":"consumptionInterval(ADIFM_B2, TOTAL, 2024-01-01 00:00:00, 2024-01-12 00:00:00)",
