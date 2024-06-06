@@ -1,2 +1,5 @@
 paho-mqtt
 iosense-connect
+python-dotenv
+pytz
+
