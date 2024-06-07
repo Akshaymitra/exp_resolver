@@ -3,3 +3,4 @@ iosense-connect
 python-dotenv
 pytz
 pytest
+gspread
